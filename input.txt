@@ -1,0 +1,10 @@
+mashed potatoes:potatoes:milk:butter:salt
+mac & cheese:macaroni:cheese:milk:butter:salt:pepper
+breakfast potatoes:potatoes:onions:butter:cayenne:paprika:salt:pepper
+refried beans:pinto beans:garlic:cumin:bay leaf:cayenne:salt:pepper
+guacamole:avocado:onion:cumin:lemon juice:salt
+cranberry fluff:cranberries:apples:walnuts:whipping cream:sugar
+lentil soup:lentils:onion:salt:white pepper:tumeric:cumin seed:garlic
+mujadara:lentils:brown rice:onions:cumin:salt:pepper
+hummus:chick peas:tahini:garlic:salt:lemon juice:olive oil:white pepper:cumin:cayenne:paprika
+hearty oatmeal:oatmeal:brown sugar:raisins:apples:almonds:pecans:walnuts:cinnamon:milk
